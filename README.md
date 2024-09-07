@@ -1,2 +1,3 @@
 # Example repository
-Hello World
+Hello World New Coders
+This is second commit
